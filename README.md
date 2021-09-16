@@ -1,0 +1,2 @@
+# SkinPeelerDemoPublic
+静态framework远程私有管理库demo
