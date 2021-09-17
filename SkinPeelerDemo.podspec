@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SkinPeelerDemo'
-  s.version          = '0.1.0'
+  #s.version          = '0.1.0'
   s.summary          = 'dfdfdfdff'
 
 # This description is used to generate tags and improve search results.
