@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SkinPeelerDemo'
-  s.version          = '0.4.0'
+  s.version          = '0.3.0'
   s.summary          = 'dfdfdfdff'
 
 # This description is used to generate tags and improve search results.
@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'SkinPeelerDemo/Classes/**/*'
-  s.vendored_frameworks = 'SkinPeelerDemo/Classes/*.framework'
+  #s.vendored_frameworks = 'SkinPeelerDemo/Classes/*.framework'
   
   # s.resource_bundles = {
   #   'SkinPeelerDemo' => ['SkinPeelerDemo/Assets/*.png']
